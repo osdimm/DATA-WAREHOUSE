@@ -1,0 +1,302 @@
+[
+ {
+  "Hari": 1,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "1.2",
+  "Penjualan (pcs)": 27
+ },
+ {
+  "Hari": 2,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "15.2",
+  "Penjualan (pcs)": 458
+ },
+ {
+  "Hari": 3,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "13.4",
+  "Penjualan (pcs)": 20
+ },
+ {
+  "Hari": 4,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "7.7",
+  "Penjualan (pcs)": 7
+ },
+ {
+  "Hari": 5,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "0.6",
+  "Penjualan (pcs)": 0
+ },
+ {
+  "Hari": 6,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 1,
+  "Penjualan (pcs)": 4
+ },
+ {
+  "Hari": 7,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 350
+ },
+ {
+  "Hari": 8,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 1
+ },
+ {
+  "Hari": 9,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "3.2",
+  "Penjualan (pcs)": 240
+ },
+ {
+  "Hari": 10,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 13
+ },
+ {
+  "Hari": 11,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "6.2",
+  "Penjualan (pcs)": 169
+ },
+ {
+  "Hari": 12,
+  "Kegiatan": 0,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 0
+ },
+ {
+  "Hari": 13,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "37.2",
+  "Penjualan (pcs)": 18
+ },
+ {
+  "Hari": 14,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "1.6",
+  "Penjualan (pcs)": 1
+ },
+ {
+  "Hari": 15,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "16.1",
+  "Penjualan (pcs)": 206
+ },
+ {
+  "Hari": 16,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "25.4",
+  "Penjualan (pcs)": 10
+ },
+ {
+  "Hari": 17,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "19.8",
+  "Penjualan (pcs)": 11
+ },
+ {
+  "Hari": 18,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 200
+ },
+ {
+  "Hari": 19,
+  "Kegiatan": 0,
+  "Curah Hujan (mm)": "11.4",
+  "Penjualan (pcs)": 0
+ },
+ {
+  "Hari": 20,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "4.2",
+  "Penjualan (pcs)": 9
+ },
+ {
+  "Hari": 21,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "20.5",
+  "Penjualan (pcs)": 305
+ },
+ {
+  "Hari": 22,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "54.5",
+  "Penjualan (pcs)": 360
+ },
+ {
+  "Hari": 23,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 1,
+  "Penjualan (pcs)": 373
+ },
+ {
+  "Hari": 24,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "6.4",
+  "Penjualan (pcs)": 34
+ },
+ {
+  "Hari": 25,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "17.8",
+  "Penjualan (pcs)": 0
+ },
+ {
+  "Hari": 26,
+  "Kegiatan": 0,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 0
+ },
+ {
+  "Hari": 27,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "5.2",
+  "Penjualan (pcs)": 220
+ },
+ {
+  "Hari": 28,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 22
+ },
+ {
+  "Hari": 29,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "6.4",
+  "Penjualan (pcs)": 9
+ },
+ {
+  "Hari": 30,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "55.9",
+  "Penjualan (pcs)": 208
+ },
+ {
+  "Hari": 31,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 4,
+  "Penjualan (pcs)": 17
+ },
+ {
+  "Hari": 32,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "5.6",
+  "Penjualan (pcs)": 213
+ },
+ {
+  "Hari": 33,
+  "Kegiatan": 0,
+  "Curah Hujan (mm)": "0.3",
+  "Penjualan (pcs)": 0
+ },
+ {
+  "Hari": 34,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 24
+ },
+ {
+  "Hari": 35,
+  "Kegiatan": 0,
+  "Curah Hujan (mm)": "2.1",
+  "Penjualan (pcs)": 0
+ },
+ {
+  "Hari": 36,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "1.5",
+  "Penjualan (pcs)": 210
+ },
+ {
+  "Hari": 37,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "6.4",
+  "Penjualan (pcs)": 163
+ },
+ {
+  "Hari": 38,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 64,
+  "Penjualan (pcs)": 250
+ },
+ {
+  "Hari": 39,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "0.5",
+  "Penjualan (pcs)": 28
+ },
+ {
+  "Hari": 40,
+  "Kegiatan": 0,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 0
+ },
+ {
+  "Hari": 41,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": "2.4",
+  "Penjualan (pcs)": 130
+ },
+ {
+  "Hari": 42,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 1,
+  "Penjualan (pcs)": 269
+ },
+ {
+  "Hari": 43,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 252
+ },
+ {
+  "Hari": 44,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 0
+ },
+ {
+  "Hari": 45,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 15
+ },
+ {
+  "Hari": 46,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 176
+ },
+ {
+  "Hari": 47,
+  "Kegiatan": 0,
+  "Curah Hujan (mm)": 58,
+  "Penjualan (pcs)": 0
+ },
+ {
+  "Hari": 48,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 0,
+  "Penjualan (pcs)": 416
+ },
+ {
+  "Hari": 49,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 1,
+  "Penjualan (pcs)": 301
+ },
+ {
+  "Hari": 50,
+  "Kegiatan": 1,
+  "Curah Hujan (mm)": 1,
+  "Penjualan (pcs)": 239
+ }
+]
